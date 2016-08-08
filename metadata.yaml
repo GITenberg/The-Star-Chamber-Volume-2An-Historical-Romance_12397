@@ -1,0 +1,34 @@
+_repo: The-Star-Chamber-Volume-2An-Historical-Romance_12397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ainsworth, William Harrison
+    aliases:
+    - Ainsworth, W. Harrison (William Harrison)
+    - Ainworth, W. Harrison (William Harrison)
+    - Ainsworth, W. H. (William Harrison)
+    - Ainsworth, Harrison
+    - Ticheburn, Cheviot
+    birthdate: 1805
+    deathdate: 1882
+    gutenberg_agent_id: '1056'
+    url: http://www.gutenberg.org/2009/agents/1056
+    wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- James I, 1603-1625 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Star-Chamber, Volume 2
+
+  An Historical Romance'
+url: http://www.gutenberg.org/ebooks/12397
