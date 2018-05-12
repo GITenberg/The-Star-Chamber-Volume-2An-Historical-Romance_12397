@@ -1,5 +1,8 @@
 _repo: The-Star-Chamber-Volume-2An-Historical-Romance_12397
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ainsworth, William Harrison
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1056
     wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12397#The-Star-Chamber-Volume-2An-Historical-Romance
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
