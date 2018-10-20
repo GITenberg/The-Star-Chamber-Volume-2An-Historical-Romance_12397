@@ -12,6 +12,8 @@ Title: The Star-Chamber, Volume 2
 Author: W. Harrison Ainsworth
 
 Release Date: May 20, 2004 [EBook #12397]
+Last Updated: July 31, 2018
+
 
 Language: English
 
@@ -22,39 +24,31 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Charles Franks and the Distributed Proofreaders Team
+Etext produced by Charles Franks and the Distributed Proofreaders Team
+
+HTML file produced by David Widger
 
 
+THE STAR-CHAMBER; AN HISTORICAL ROMANCE,
+
+By W. Harrison Ainsworth, Esq.
+
+Author of "Windsor Castle," &C.
 
 
-THE STAR-CHAMBER;
-
-
-AN HISTORICAL ROMANCE,
-
-
-BY W. HARRISON AINSWORTH, ESQ.
-
-AUTHOR OF "WINDSOR CASTLE," &C.
-
-
-IN TWO VOLUMES.
+In Two Volumes.
 
 VOL. II.
+Leipzig
 
-
-LEIPZIG
-
-BERNHARD TAUCHNITZ
+Bernhard Tauchnitz
 
 1854.
 
 
 
 
-CONTENTS OF VOLUME II.
-
-CHAPTER
+CONTENTS OF VOLUME II. CHAPTER
 
      I. Poison
     II. Counter-Poison
@@ -97,9 +91,7 @@ CONCLUDING CHAPTER.--Retribution
 
 
 
-CHAPTER I.
-
-Poison.
+CHAPTER I. Poison.
 
 
 The execution of Lady Lake's criminal and vindictive project would not
@@ -192,9 +184,7 @@ to make her communication.
 
 
 
-CHAPTER II.
-
-Counter-Poison.
+CHAPTER II. Counter-Poison.
 
 
 The physical tortures endured by Lady Lake were exceeded by her mental
@@ -482,9 +472,7 @@ suffer not this man to pass forth!"
 
 
 
-CHAPTER III.
-
-Showing that "our pleasant vices are made the whips to scourge us."
+CHAPTER III. Showing that "our pleasant vices are made the whips to scourge us."
 
 
 We must now request the reader to visit the noble mansion in the Strand,
@@ -621,9 +609,7 @@ Lake's lodgings in Whitehall.
 
 
 
-CHAPTER IV.
-
-How the forged Confession was produced.
+CHAPTER IV. How the forged Confession was produced.
 
 
 Summoning up all his firmness for the interview with his lady, Lord Roos
@@ -960,9 +946,7 @@ recovery."
 
 
 
-CHAPTER V.
-
-A visit to Sir Giles Mompesson's habitation near the fleet.
+CHAPTER V. A visit to Sir Giles Mompesson's habitation near the fleet.
 
 
 Allowing an interval of three or four months to elapse between the
@@ -1333,9 +1317,7 @@ revenge myself on this detested Mounchensey."
 
 
 
-CHAPTER VI.
-
-Of the Wager between the Conde de Gondomar and the Marquis of
+CHAPTER VI. Of the Wager between the Conde de Gondomar and the Marquis of
 Buckingham.
 
 
@@ -1509,9 +1491,7 @@ the proposal; but whatever it was, it was unknown to his _protégé_.
 
 
 
-CHAPTER VII.
-
-A Cloud in the Horizon.
+CHAPTER VII. A Cloud in the Horizon.
 
 
 But it must not be imagined that Sir Jocelyn's whole time was passed in
@@ -1556,7 +1536,7 @@ peremptory tone, that she must accompany him to Sir Giles Mompesson's
 habitation. Refusing to give any explanation of the cause of this
 strange summons, he said she would do well to comply with it,--that,
 indeed, resistance would be idle as Sir Giles was prepared to enforce
-his orders; and that he himself would he responsible for her safety.
+his orders; and that he himself would be responsible for her safety.
 Compelled to be satisfied with these assurances, Aveline yielded to the
 apparent necessity of the case, and set forth with him, attended by Dame
 Sherbourne. With what passed during her interview with the extortioner
@@ -1635,12 +1615,10 @@ remove it altogether by a marriage with you--were I to disobey my
 father, I should never know a moment's peace."
 
 There was a brief pause, interrupted only by her sobs. At length Sir
-Jocelyn exclaimed quickly,
-
-"Perhaps, we may be unnecessarily alarming ourselves, and this may only
-be a trick of Sir Giles Mompesson. He may have heard of the promise you
-have made to your father, and may try to frighten you. But whoever is
-put forward must substantiate his claim."
+Jocelyn exclaimed quickly, "Perhaps, we may be unnecessarily alarming
+ourselves, and this may only be a trick of Sir Giles Mompesson. He may
+have heard of the promise you have made to your father, and may try to
+frighten you. But whoever is put forward must substantiate his claim."
 
 As those words were uttered, there was a slight noise in the apartment,
 and looking up, they beheld the dusky figure of Clement Lanyere, masked
@@ -1672,9 +1650,7 @@ With this, he departed as suddenly and mysteriously as he had come.
 
 
 
-CHAPTER VIII.
-
-Whitehall.
+CHAPTER VIII. Whitehall.
 
 
 The Tilt-yard at Whitehall, where the jousting was appointed to take
@@ -1885,9 +1861,7 @@ fain to acknowledge, that it constitutes a very striking picture.
 
 
 
-CHAPTER IX.
-
-Prince Charles.
+CHAPTER IX. Prince Charles.
 
 
 There is now great stir within the palace, and its principal court is
@@ -2034,9 +2008,7 @@ vaulted on the back of his steed.
 
 
 
-CHAPTER X.
-
-The old Palace-Yard of Westminster.
+CHAPTER X. The old Palace-Yard of Westminster.
 
 
 The throng outside the gates of Whitehall felt their breasts dilate, and
@@ -2279,9 +2251,7 @@ put up his horse.
 
 
 
-CHAPTER XI.
-
-The Tilt-Yard.
+CHAPTER XI. The Tilt-Yard.
 
 
 Meanwhile, the procession was pursuing its slow course towards the
@@ -2408,9 +2378,7 @@ universal applause.
 
 
 
-CHAPTER XII.
-
-The Tilting Match.
+CHAPTER XII. The Tilting Match.
 
 
 After all the other competitors for the prize had essayed a career
@@ -2561,9 +2529,7 @@ mar their bliss!
 
 
 
-CHAPTER XIII.
-
-The Felon Knight.
+CHAPTER XIII. The Felon Knight.
 
 
 A few more bounds of his steed brought Sir Jocelyn to the royal gallery,
@@ -2733,9 +2699,7 @@ attendance pronounced that he was only stunned by the blow.
 
 
 
-CHAPTER XIV.
-
-The private Cabinet of Sir Giles Mompesson.
+CHAPTER XIV. The private Cabinet of Sir Giles Mompesson.
 
 
 A small room, and rendered yet smaller by the numerous chests and strong
@@ -2928,9 +2892,7 @@ the sooner learn what you desire to know."
 
 
 
-CHAPTER XV.
-
-Clement Lanyere's Story.
+CHAPTER XV. Clement Lanyere's Story.
 
 
 "My tale shall be briefly told," said Lanyere. "You are aware, Sir
@@ -3154,9 +3116,7 @@ effected his retreat.
 
 
 
-CHAPTER XVI.
-
-Sir Jocelyn's rupture with de Gondomar.
+CHAPTER XVI. Sir Jocelyn's rupture with de Gondomar.
 
 
 Far and wide echoed the report of Sir Jocelyn's brilliant achievements
@@ -3345,9 +3305,7 @@ rather say," he added to himself, "_Vaya mucho en mala hora_!"
 
 
 
-CHAPTER XVII.
-
-Disgrace.
+CHAPTER XVII. Disgrace.
 
 
 Sir Jocelyn was not without great uneasiness at the result of his
@@ -3441,9 +3399,7 @@ Thus was Mounchensey's disgrace accomplished by his enemies.
 
 
 
-CHAPTER XVIII.
-
-How Sir Jocelyn's cause was espoused by the 'prentices.
+CHAPTER XVIII. How Sir Jocelyn's cause was espoused by the 'prentices.
 
 
 Stung almost to madness by the sense of intolerable wrong, our young
@@ -3638,9 +3594,7 @@ where they came to a halt, and arranged their forces.
 
 
 
-CHAPTER XIX.
-
-A Noble Revenge.
+CHAPTER XIX. A Noble Revenge.
 
 
 Nothing could be pleasanter than the situation of the Spanish
@@ -3796,9 +3750,7 @@ in the course taken by the young knight.
 
 
 
-CHAPTER XX.
-
-A Place of Refuge.
+CHAPTER XX. A Place of Refuge.
 
 
 After quitting De Gondomar, as before related, Sir Jocelyn hurried along
@@ -3892,9 +3844,7 @@ took the direction of Aveline's dwelling.
 
 
 
-CHAPTER XXI.
-
-The Arrest.
+CHAPTER XXI. The Arrest.
 
 
 As he approached the cottage a heavy presentiment of ill seized Sir
@@ -4170,9 +4120,7 @@ Jocelyn, the party went forth.
 
 
 
-CHAPTER XXII.
-
-The Old Fleet Prison.
+CHAPTER XXII. The Old Fleet Prison.
 
 
 Mention is made of a prison-house standing near the River Fleet as early
@@ -4322,9 +4270,7 @@ of their agonies, than that of the executioner.
 
 
 
-CHAPTER XXIII.
-
-How Sir Jocelyn was brought to the Fleet.
+CHAPTER XXIII. How Sir Jocelyn was brought to the Fleet.
 
 
 After his arrest by the serjeant-at-arms, Sir Jocelyn was taken, in the
@@ -4436,9 +4382,7 @@ Mounchensey was led forth by the jailer.
 
 
 
-Chapter XXIV.
-
-The Abduction.
+CHAPTER XXIV. The Abduction.
 
 
 Night had come on, and Aveline was anxiously expecting the arrival of
@@ -4746,9 +4690,7 @@ the myrmidons.
 
 
 
-Chapter XXV.
-
-The "Stone Coffin."
+CHAPTER XXV. The "Stone Coffin."
 
 
 A dreadful dungeon! the last and profoundest of the range of
@@ -4961,9 +4903,7 @@ insensible upon the ground.
 
 
 
-CHAPTER XXVI.
-
-A Secret Friend.
+CHAPTER XXVI. A Secret Friend.
 
 
 When Sir Jocelyn again became conscious, he found he had been
@@ -5070,9 +5010,7 @@ cell.
 
 
 
-CHAPTER XXVII.
-
-Showing how judgment was given by King James in the Star-Chamber, in the
+CHAPTER XXVII. Showing how judgment was given by King James in the Star-Chamber, in the
 great cause of the Countess of Exeter against Sir Thomas and Lady Lake.
 
 
@@ -5293,9 +5231,7 @@ the vindictive lady expected was denied her.
 
 
 
-CHAPTER XXVIII.
-
-The two warrants.
+CHAPTER XXVIII. The two warrants.
 
 
 At the conclusion of the trial, James was observed to smile, and
@@ -5459,9 +5395,7 @@ Tottenham.
 
 
 
-CHAPTER XXIX.
-
-The Silver Coffer.
+CHAPTER XXIX. The Silver Coffer.
 
 
 Within Sir Giles Mompesson's vast and gloomy mansion, it has been said
@@ -5844,9 +5778,7 @@ deliver it up to you."
 
 
 
-CHAPTER XXX.
-
-How the Marriage was interrupted.
+CHAPTER XXX. How the Marriage was interrupted.
 
 
 After the presentation of the silver casket, as before described, the
@@ -6150,9 +6082,7 @@ hand, stepped forward, and, removing his mask, confronted his enemy.
 
 
 
-CHAPTER XXXI.
-
-Accusations.
+CHAPTER XXXI. Accusations.
 
 
 By this time a very different complexion had been imparted to the scene.
@@ -6606,7 +6536,7 @@ he was cast into the Fleet Prison, where he perished miserably."
 "A lamentable history," exclaimed Charles. "It is grievous to think
 that justice cannot be done him."
 
-"Justice may he done his son," said Buckingham, "who has been oppressed
+"Justice may be done his son," said Buckingham, "who has been oppressed
 in like manner with his father. Restitution may be made him of the
 estates of which he has been plundered."
 
@@ -6722,9 +6652,7 @@ indeed lost!"
 
 
 
-CHAPTER XXXII.
-
-Judgment.
+CHAPTER XXXII. Judgment.
 
 
 On the intimation of the Prince's wishes, the tapestry was again raised
@@ -6895,7 +6823,7 @@ would counsel a visit to the hall of your ancestors."
 "Nothing could be more in accordance with my own wishes, most gracious
 Prince, if my newly-found relative will accept me as his guest."
 
-"Not as his guest, my good nephew" said Osmond. "You are sole lord of
+"Not as his guest, my good nephew," said Osmond. "You are sole lord of
 Mounchensey. I have made over the mansion and all the estates to you.
 They are yours, as by right they should be."
 
